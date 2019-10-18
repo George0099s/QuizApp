@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@drawable/bg_gradient"
+    tools:context=".tests.TestActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/testing"
+                android:textColor="@android:color/black"
+                android:textSize="40sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="@string/HelloString"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:orientation="vertical">
+
+            <LinearLayout
+
+                android:id="@+id/first_block"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_weight="2"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <Button
+                    android:id="@+id/hello_chinese"
+                    style="@style/button_cards"
+                    android:text="@string/HelloChinese"
+                    android:visibility="visible" />
+
+                <Button
+                    android:id="@+id/yes_chinese"
+                    style="@style/button_cards"
+                    android:text="@string/YesChinese" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/second_block"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <Button
+                    android:id="@+id/no_chinese"
+                    style="@style/button_cards"
+                    android:text="@string/NoChinese" />
+
+                <Button
+                    android:id="@+id/thanks_chinese"
+                    style="@style/button_cards"
+                    android:text="@string/TYChinese" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+            <Button
+                android:id="@+id/next_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingBottom="15dp"
+                android:text="@string/next"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+

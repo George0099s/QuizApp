@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DownString">«DOWN» in Chinese</string>
+    <string name="GEString">«GOOD EVENING» in Chinese</string>
+    <string name="GMString">«GOOD MORNING» in Chinese</string>
+    <string name="HelloString">«HI» in Chinese</string>
+    <string name="Learning">Training</string>
+    <string name="TYString">«THANKS» in Chinese</string>
+    <string name="YesString">«YES» in Chinese</string>
+    <string name="YoungString">«YOUNG» in Chinese</string>
+    <string name="elevenString">«ELEVEN» in Chinese</string>
+    <string name="goodByeString">«GOODBYE» in Chinese</string>
+    <string name="howMuchString">«HOW MUCH» in Chinese</string>
+    <string name="learWithPleasuer">Learning chinese with pleasure</string>
+    <string name="moneyString">«MONEY» in Chinese</string>
+    <string name="nameString">«NAME» in Chinese</string>
+    <string name="next">SKIP</string>
+    <string name="noString">«NO» in Chinese</string>
+    <string name="oldString">«OLD» in Chinese</string>
+    <string name="oneString">«ONE» in Chinese</string>
+    <string name="soryString">«SORRY» in Chinese</string>
+    <string name="start_learn">Start learning</string>
+    <string name="tenString">«TEN» in Chinese</string>
+    <string name="test_your_level">Check your level</string>
+    <string name="testing">"Testing "</string>
+    <string name="twelveString">«TWELVE» in Chinese</string>
+    <string name="twoString">«TWO» in Chinese</string>
+    <string name="UpString">«UP» in Chinese</string>
+    <string name="app_name" translatable="false">HR24 Chinese - Learn Easy</string>
+    <string name="learnNum">Learn numbers</string>
+    <string name="learnPhrases">Learn phrases</string>
+    <string name="btnExit">Close</string>
+    <string name="btnBack">Back</string>
+    <string name="btnNext">Next</string>
+    <string name="toast">"End, click the 'close' button"</string>
+    <string name="countRightAnswers">Number \n of correct \n answers: </string>
+    <string name="aboutApp">About application</string>
+    <string name="createdBy">Designed by \n HR24 Group.\n George Avakyan.</string>
+
+</resources>

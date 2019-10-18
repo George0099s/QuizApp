@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">HR24 Китайский язык - учим легко</string>
+    <string name="test_your_level">Проверить уровень</string>
+    <string name="start_learn">Начать обучение</string>
+    <string name="testing">Тестирование</string>
+    <string name="next">Пропустить</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="HelloChinese" translatable="false">你好 Nǐhǎo!</string>
+    <string name="YesChinese" translatable="false">是 shì</string>
+    <string name="NoChinese" translatable="false">不 bù</string>
+    <string name="TYChinese" translatable="false">谢谢 xièxie</string>
+    <string name="SorryChinese" translatable="false">对不起 Duìbùqǐ.</string>
+    <string name="OneChinese" translatable="false">一 yī</string>
+    <string name="TwoChinese" translatable="false">二 èr</string>
+    <string name="TenChinese" translatable="false">十 shí</string>
+    <string name="HowMuchChinese" translatable="false">多少\t\tduōshǎo</string>
+    <string name="NameChinese" translatable="false">姓名 xìngmíng</string>
+    <string name="GoodMorningChinese" translatable="false">早上好 Zǎoshànghǎo</string>
+    <string name="GoodEveningChinese" translatable="false">晚上好 Wǎnshànghǎo.</string>
+    <string name="UpChinese" translatable="false">上面的 shàngmiàn de</string>
+    <string name="DownChinese" translatable="false">下面的 xiàmiàn de</string>
+    <string name="YoungChinese" translatable="false">年轻的 niánqīng dē</string>
+    <string name="OldChinese" translatable="false">老的 lǎo de</string>
+    <string name="ElevenChinese" translatable="false">十一 shíyī</string>
+    <string name="TwelveChinese" translatable="false">十二 shíèr</string>
+    <string name="GoodByeChinese" translatable="false">再见 Zàijiàn.</string>
+    <string name="MoneyChinese" translatable="false">钱 qián</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="learWithPleasuer">Учим китайский с удовольствием</string>
+    <string name="Learning">Обучение</string>
+    <string name="HelloString">«ПРИВЕТ» на китайском</string>
+    <string name="YesString">«ДА» на китайском</string>
+    <string name="noString">«НЕТ» на китайском</string>
+    <string name="TYString">«СПАСИБО» на китайском</string>
+    <string name="soryString">«ИЗВИНИТЕ» на китайском</string>
+    <string name="oneString">«ОДИН» на китайском</string>
+    <string name="tenString">«ДЕСЯТЬ» на китайском</string>
+    <string name="howMuchString">«СКОЛЬКО» на китайском</string>
+    <string name="nameString">«ИМЯ» на китайском</string>
+    <string name="GMString">«ДОБРОЕ УТРО» на китайском</string>
+    <string name="GEString">«ДОБРЫЙ ВЕЧЕР» на китайском</string>
+    <string name="UpString">«НАВЕРХУ» на китайском</string>
+    <string name="YoungString">«МОЛОДОЙ» на китайском</string>
+    <string name="oldString">«СТАРЫЙ» на китайском</string>
+    <string name="elevenString">«ОДИННАДЦАТЬ» на китайском</string>
+    <string name="twelveString">«ДВЕНАДЦАТЬ» на китайском</string>
+    <string name="twoString">«ДВА» на китайском</string>
+    <string name="goodByeString">«ДО СВИДАНИЯ» на китайском</string>
+    <string name="moneyString">«ДЕНЬГИ» на китайском</string>
+    <string name="DownString">«ВНИЗУ» на китайском</string>
+    <string name="learnNum">Учить цифры</string>
+    <string name="learnPhrases">Учить фразы</string>
+    <string name="btnExit">Закрыть</string>
+    <string name="btnBack">Назад</string>
+    <string name="btnNext">Дальше</string>
+    <string name="toast">"Конец, нажмите кнопку 'закрыть'"</string>
+    <string name="countRightAnswers">Колличество \n правильных \n ответов: </string>
+    <string name="aboutApp">О приложении </string>
+    <string name="createdBy">Разработано в \n HR24 Group.\n  Георгий Авакян.</string>
+
+
+</resources>
